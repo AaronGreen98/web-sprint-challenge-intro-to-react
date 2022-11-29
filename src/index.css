@@ -5,3 +5,9 @@ body {
   background-image: url('./images/sw-bg.jpg');
   background-size: cover;
 }
+.starwars-people {
+  text-align: center;
+}
+h3{
+  background-color: rgb(136, 66, 213, 0.4)
+}
